@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vscode/
+.vscode-test/
+
+# Ignore environment variables files
+.env
